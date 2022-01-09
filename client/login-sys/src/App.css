@@ -1,0 +1,43 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  
+  
+  
+}
+body{
+  background-color:rgb(242, 242, 242);
+}
+
+.information {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color:rgb(242, 242, 242);
+  margin-top: 15px;
+  
+
+}
+
+.information input{
+  width:300px;
+  height: 30px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  font-size: 16px;
+  padding-left: 10px;
+  
+}
+
+.information button{
+  width:300px;
+  height: 30px;
+  margin-top: 15px;
+}
+
+.information button:hover{
+  
+}
